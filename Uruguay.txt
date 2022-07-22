@@ -1,62 +1,135 @@
-#EXTINF:-1 tvg-id="" tvg-name="========= URUGUAY  =========" tvg-logo="" group-title="Uruguay",========= URUGUAY  =========
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/26634
-#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| 1000 X Hora TV" tvg-logo="https://www.1000xhora.tv/images/logo.png" group-title="Uruguay",Uruguay|| 1000 X Hora TV
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134176
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/26634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay" 1000 X Hora TV" tvg-logo="https://www.1000xhora.tv/images/logo.png" group-title="Uruguay",Uru 1000 X Hora TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134176.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| 1000 X Hora Tv" tvg-logo="http://vivotvhd.com/img/cha/3026.gif" group-title="Uruguay",Uruguay|| 1000 X Hora Tv
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/28085
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28085.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| A + V" tvg-logo="https://veratvimgs.cdn.antel.net.uy/misc/assets/logo-veratv.png" group-title="Uruguay",Uruguay|| A + V
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1130050
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1130050.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Artigas Television" tvg-logo="" group-title="Uruguay",Uruguay|| Artigas Television
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1130053
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1130053.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 10." tvg-logo="https://lh3.googleusercontent.com/-gXhn1i6LiCM/VKOv0_4IFfI/AAAAAAAAFmw/qoNG1mHsytc/s640/blogger-image--648257053.jpg" group-title="Uruguay",Uruguay|| Canal 10.
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1113116
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1113116.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 11 Treinta y Tres" tvg-logo="" group-title="Uruguay",Uruguay|| Canal 11 Treinta y Tres
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1130054
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1130054.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 4" tvg-logo="https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg" group-title="Uruguay",Uruguay|| Canal 4
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1113117
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1113117.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 5" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8071/240/default.jpg" group-title="Uruguay",Uruguay|| Canal 5
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/28090
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28090.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 7" tvg-logo="http://vivotvhd.com/img/cha/504.gif" group-title="Uruguay",Uruguay|| Canal 7
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/28086
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28086.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Charrua Tv" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6038/240/default.jpg" group-title="Uruguay",Uruguay|| Charrua Tv
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1130051
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1130051.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Maroñas" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg" group-title="Uruguay",Uruguay|| Maroñas
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1130052
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1130052.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Teledoce SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Teledoce_logo_2004.png/150px-Teledoce_logo_2004.png" group-title="Uruguay",Uruguay|| Teledoce SD
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/28089
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28089.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 5" tvg-logo="" group-title="Uruguay",Uruguay|| Canal 5
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1128514
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1128514.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| TV Ciudad" tvg-logo="https://pbs.twimg.com/profile_images/1136660931260366849/eyPm6evK_400x400.png" group-title="Uruguay",Uruguay|| TV Ciudad
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/28087
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28087.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV HD" tvg-logo="https://i.ytimg.com/vi/JJOtX3i9p0E/hqdefault.jpg" group-title="Uruguay",Uruguay|| VTV HD
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/28088
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28088.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV HD Opc. 2" tvg-logo="https://i.ytimg.com/vi/JJOtX3i9p0E/hqdefault.jpg" group-title="Uruguay",Uruguay|| VTV HD Opc. 2
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1132207
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1132207.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV Plus HD" tvg-logo="https://www.tvrosat.com/logos/vtv_uy_plus[1].png" group-title="Uruguay",Uruguay|| VTV Plus HD
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/36760
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/36760.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Artigas Television" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg" group-title="Uruguay",Uruguay|| Artigas Television
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134190
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134190.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Canal_10_logo.jpg" group-title="Uruguay",Uruguay|| Canal 10
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134180
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134180.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 10 SAETA" tvg-logo="https://i.pinimg.com/originals/66/e9/06/66e906d27abd2a8378e43c95efabce3b.png" group-title="Uruguay",Uruguay|| Canal 10 SAETA
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134177
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134177.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="Uruguay",Uruguay|| Canal 12
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134175
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134175.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 12 HD" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/07/og-image-all.jpg" group-title="Uruguay",Uruguay|| Canal 12 HD
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134173
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134173.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 2 SAN CARLOS" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg" group-title="Uruguay",Uruguay|| Canal 2 SAN CARLOS
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134189
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134189.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="Uruguay",Uruguay|| Canal 4
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134174
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134174.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal 4 SALTO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="Uruguay",Uruguay|| Canal 4 SALTO
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134187
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134187.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| LATINA Y PAYSANDU" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34373/240/default.jpg" group-title="Uruguay",Uruguay|| LATINA Y PAYSANDU
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134183
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134183.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| NATURAL TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/uruguay-natural.png" group-title="Uruguay",Uruguay|| NATURAL TV
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134181
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134181.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="Uruguay",Uruguay|| VTV
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134178
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134178.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| VTV PLUS" tvg-logo="https://lh4.googleusercontent.com/proxy/_ugSGQr65ZWhZsETPTwXkXLi4V0I6GUl3Y0d1XXeYeEWqL2ZasHG24nAwhp3_UYNgWe8Q2Egty8eMAIUDRDVWuYZmsbOZrxmbdvIorbkkUGJ9e7b50QylbA2f8JZtgPi17Mlfafc_jWPgClKbsphvLt4EbDNJY6bEkxelg=s0-d" group-title="Uruguay",Uruguay|| VTV PLUS
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1134172
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1134172.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uruguay|| Canal M" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="Uruguay",Uruguay|| Canal M
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1130491
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1130491.ts
+
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/28451
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| TVCIUDAD" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6046/240/default.jpg" group-title="Uruguay",Uruguay|| TVCIUDAD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155775.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| PRESIDENCIA URUGUAY" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6730/240/default.jpg" group-title="Uruguay",Uruguay|| PRESIDENCIA URUGUAY
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| ANPI TV SAN RAMON" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/39708/240/default.jpg" group-title="Uruguay",Uruguay|| ANPI TV SAN RAMON
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| RDTV 24HS" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/35396/240/default.jpg" group-title="Uruguay",Uruguay|| RDTV 24HS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| 1000XHORA TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/31488/240/default.jpg" group-title="Uruguay",Uruguay|| 1000XHORA TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CARDINAL TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg" group-title="Uruguay",Uruguay|| CARDINAL TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| A + V" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6707/240/default.jpg" group-title="Uruguay",Uruguay|| A + V
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CáMARA DE SENADORES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6054/240/default.jpg" group-title="Uruguay",Uruguay|| CáMARA DE SENADORES
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CáMARA DE REPRESENTANTES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6763/240/default.jpg" group-title="Uruguay",Uruguay|| CáMARA DE REPRESENTANTES
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 2 HD SAN CARLOS" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8204/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 2 HD SAN CARLOS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL M" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL M
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| MARONAS ENTERTAINMENT" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6056/240/default.jpg" group-title="Uruguay",Uruguay|| MARONAS ENTERTAINMENT
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 SALTO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/8081/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 SALTO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155790.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 7 PUNTA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 7 PUNTA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155791.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 12 MELO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 12 MELO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155792.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| MAM TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34317/240/default.jpg" group-title="Uruguay",Uruguay|| MAM TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 9 TELEROCHA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6067/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 9 TELEROCHA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 6 DURAZNO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6070/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 6 DURAZNO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155798.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| FLORIDA TELEVISORA COLOR" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/30455/240/default.jpg" group-title="Uruguay",Uruguay|| FLORIDA TELEVISORA COLOR
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155799.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| PANTALLA IMPO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/34839/240/default.jpg" group-title="Uruguay",Uruguay|| PANTALLA IMPO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 HD TREINTA Y TRES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6061/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 HD TREINTA Y TRES
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 8 ROCHA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6071/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 8 ROCHA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155804.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| ARTIGAS TELEVISION" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg" group-title="Uruguay",Uruguay|| ARTIGAS TELEVISION
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155805.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 11 TREINTA Y TRES" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6853/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 11 TREINTA Y TRES
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155806.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| EL CANAL DE LA REGION - NORESTE" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6703/240/default.jpg" group-title="Uruguay",Uruguay|| EL CANAL DE LA REGION - NORESTE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155808.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 8 RIVERA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 8 RIVERA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 PAYSANDU" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9239/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 PAYSANDU
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 2 VISION CANARIA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9411/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 2 VISION CANARIA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| SAN JOSE AHORA" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/28835/240/default.jpg" group-title="Uruguay",Uruguay|| SAN JOSE AHORA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 8 DURAZNO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6077/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 8 DURAZNO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| TVL PANDO" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6764/240/default.jpg" group-title="Uruguay",Uruguay|| TVL PANDO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 JUAN LACAZE" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6157/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 JUAN LACAZE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 11 LAS PIEDRAS" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6055/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 11 LAS PIEDRAS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155819.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| CANAL 4 CHUY" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6057/240/default.jpg" group-title="Uruguay",Uruguay|| CANAL 4 CHUY
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay|| RIO URUGUAY TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg" group-title="Uruguay",Uruguay|| RIO URUGUAY TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155821.ts
+#EXTINF:-1
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1155904.ts
