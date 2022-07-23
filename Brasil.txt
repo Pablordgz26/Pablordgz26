@@ -1,0 +1,258 @@
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ BRAZIL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Brasil",▁ ▂ ▄ ▅ ▆☆ BRAZIL ☆▆ ▅ ▄ ▂ ▁
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/51960.ts
+#EXTINF:-1 tvg-id="Cartoon Network 1 Turgo" tvg-name="BR | Cartoon Network Brasil Turgo | Infantil" tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="Infantiles",BR | Cartoon Network Brasil Turgo | Infantil
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/19083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| A&E HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="Brasil",Br|| A&E HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| AMC HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png" group-title="Brasil",Br|| AMC HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| ARTE 1 HD" tvg-logo="" group-title="Brasil",Br|| ARTE 1 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| AXN HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Brasil",Br|| AXN HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BABY TV HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/babytv.png" group-title="Brasil",Br|| BABY TV HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BAND CAMPINAS SD" tvg-logo="" group-title="Brasil",Br|| BAND CAMPINAS SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BAND NEWS HD" tvg-logo="" group-title="Brasil",Br|| BAND NEWS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BAND SP HD" tvg-logo="" group-title="Brasil",Br|| BAND SP HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BAND SPORTS HD" tvg-logo="" group-title="Brasil",Br|| BAND SPORTS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BIS HD" tvg-logo="" group-title="Brasil",Br|| BIS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| BOOMERANG HD" tvg-logo="https://i.imgur.com/O697Mfr.png" group-title="Brasil",Br|| BOOMERANG HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| CANAL BRASIL SD" tvg-logo="" group-title="Brasil",Br|| CANAL BRASIL SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| CARTOON NETWORK HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CartoonNetwork.png" group-title="Brasil",Br|| CARTOON NETWORK HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| CINEMAX HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png" group-title="Brasil",Br|| CINEMAX HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| COMBATE FHD" tvg-logo="" group-title="Brasil",Br|| COMBATE FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| COMBATE HD" tvg-logo="" group-title="Brasil",Br|| COMBATE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| COMEDY CENTRAL HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1551876923414-Imagen.png" group-title="Brasil",Br|| COMEDY CENTRAL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| CULTURA HD" tvg-logo="" group-title="Brasil",Br|| CULTURA HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| CURTA! HD" tvg-logo="" group-title="Brasil",Br|| CURTA! HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY CHANNEL HD" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="Brasil",Br|| DISCOVERY CHANNEL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="Brasil",Br|| DISCOVERY CIVILIZATION HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY HOME & HEALTH HD" tvg-logo="" group-title="Brasil",Br|| DISCOVERY HOME & HEALTH HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY KIDS HD" tvg-logo="" group-title="Brasil",Br|| DISCOVERY KIDS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY SCIENCE HD" tvg-logo="" group-title="Brasil",Br|| DISCOVERY SCIENCE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY THEATER HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="Brasil",Br|| DISCOVERY THEATER HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY TLC HD" tvg-logo="" group-title="Brasil",Br|| DISCOVERY TLC HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY TURBO HD" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="Brasil",Br|| DISCOVERY TURBO HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/CZYvD2P.png" group-title="Brasil",Br|| DISCOVERY WORLD HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISNEY CHANNEL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/aacd4973a8d571b9ab1206b8f64516da.png" group-title="Brasil",Br|| DISNEY CHANNEL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| DISNEY XD HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/disneyXD.png" group-title="Brasil",Br|| DISNEY XD HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| E! HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/E!Entertainment.png" group-title="Brasil",Br|| E! HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| ESPN BRASIL HD" tvg-logo="" group-title="Brasil",Br|| ESPN BRASIL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FISH TV HD" tvg-logo="" group-title="Brasil",Br|| FISH TV HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FOX HD" tvg-logo="" group-title="Brasil",Br|| FOX HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117087.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FOX LIFE HD" tvg-logo="" group-title="Brasil",Br|| FOX LIFE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117086.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FOX SPORTS 2 HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="Brasil",Br|| FOX SPORTS 2 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FOX SPORTS HD" tvg-logo="" group-title="Brasil",Br|| FOX SPORTS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FUTURA HD" tvg-logo="" group-title="Brasil",Br|| FUTURA HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| FX HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png" group-title="Brasil",Br|| FX HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO BRASILIA SD" tvg-logo="" group-title="Brasil",Br|| GLOBO BRASILIA SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO INTERNACIONAL SD" tvg-logo="https://www.newslinereport.com/online/nota_tv-globo-internacional-disponible-en-ott-europeas.jpg" group-title="Brasil",Br|| GLOBO INTERNACIONAL SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO MINAS HD" tvg-logo="https://i.imgur.com/cii37sC.jpg" group-title="Brasil",Br|| GLOBO MINAS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO NEWS HD" tvg-logo="" group-title="Brasil",Br|| GLOBO NEWS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117011.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO NORDESTE HD" tvg-logo="" group-title="Brasil",Br|| GLOBO NORDESTE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO RJ HD" tvg-logo="" group-title="Brasil",Br|| GLOBO RJ HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO RPC TV HD" tvg-logo="" group-title="Brasil",Br|| GLOBO RPC TV HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO SP FHD" tvg-logo="" group-title="Brasil",Br|| GLOBO SP FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117006.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO SP HD" tvg-logo="" group-title="Brasil",Br|| GLOBO SP HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117005.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO SP SD" tvg-logo="" group-title="Brasil",Br|| GLOBO SP SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117004.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOBO TV TRIBUNA SANTOS SD" tvg-logo="" group-title="Brasil",Br|| GLOBO TV TRIBUNA SANTOS SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GLOOB HD" tvg-logo="" group-title="Brasil",Br|| GLOOB HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116995.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GNT HD" tvg-logo="" group-title="Brasil",Br|| GNT HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| GNT SD" tvg-logo="" group-title="Brasil",Br|| GNT SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| H2 HD" tvg-logo="" group-title="Cinema - PPV",Br|| H2 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO 2 HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbo2.png" group-title="Brasil",Br|| HBO 2 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117076.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO FAMILY HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbofamily.png" group-title="Brasil",Br|| HBO FAMILY HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO HD" tvg-logo="" group-title="Brasil",Br|| HBO HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO PLUS HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/HBOPlus.png" group-title="Brasil",Br|| HBO PLUS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO SIGNATURE HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbosignature.png" group-title="Brasil",Br|| HBO SIGNATURE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117072.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HISTORY CHANNEL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/history.png" group-title="Brasil",Br|| HISTORY CHANNEL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| ID - Investigation Discovery HD" tvg-logo="" group-title="Brasil",Br|| ID - Investigation Discovery HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117070.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| LIFETIME HD" tvg-logo="" group-title="Brasil",Br|| LIFETIME HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO Mundi HD" tvg-logo="" group-title="Brasil",Br|| HBO Mundi HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO Extreme HD" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a1cb1ce71cd36dbd399e4d25376154d3.jpg" group-title="Brasil",Br|| HBO Extreme HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117067.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| HBO POP" tvg-logo="" group-title="Brasil",Br|| HBO POP
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| MEGAPIX HD" tvg-logo="" group-title="Brasil",Br|| MEGAPIX HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| MULTISHOW HD" tvg-logo="" group-title="Brasil",Br|| MULTISHOW HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Brasil",Br|| NATIONAL GEOGRAPHIC HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| NICK JR HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nickjr.png" group-title="Brasil",Br|| NICK JR HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| NICKELODEON HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nick.png" group-title="Brasil",Br|| NICKELODEON HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PARAMOUNT CHANNEL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/paramount.png" group-title="Brasil",Br|| PARAMOUNT CHANNEL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 2 HD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 2 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117056.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 3 FHD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 3 FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 3 HD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 3 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 4 HD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 4 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 5 FHD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 5 FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 5 HD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 5 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 6 FHD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 6 FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 6 SD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 6 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 7 SD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 7 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE 8 SD" tvg-logo="" group-title="Brasil",Br|| PREMIERE 8 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE CLUBES HD" tvg-logo="" group-title="Brasil",Br|| PREMIERE CLUBES HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| PREMIERE CLUBES SD" tvg-logo="" group-title="Brasil",Br|| PREMIERE CLUBES SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| RECORD FHD" tvg-logo="" group-title="Brasil",Br|| RECORD FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| RECORD NEWS HD" tvg-logo="" group-title="Brasil",Br|| RECORD NEWS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| RECORD RJ" tvg-logo="" group-title="Brasil",Br|| RECORD RJ
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| RECORD SP HD" tvg-logo="" group-title="Brasil",Br|| RECORD SP HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| REDE TV HD" tvg-logo="https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8" group-title="Brasil",Br|| REDE TV HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| REDE TV SD" tvg-logo="" group-title="Brasil",Br|| REDE TV SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SBT FHD" tvg-logo="" group-title="Brasil",Br|| SBT FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SBT GOIAS HD" tvg-logo="https://portaliftv.files.wordpress.com/2014/09/logo-do-sbt-wallpaper-12224.jpg" group-title="Brasil",Br|| SBT GOIAS HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SBT HD" tvg-logo="" group-title="Brasil",Br|| SBT HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SBT NORDESTE FHD" tvg-logo="" group-title="Brasil",Br|| SBT NORDESTE FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SBT NORDESTE HD" tvg-logo="" group-title="Brasil",Br|| SBT NORDESTE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SBT SD" tvg-logo="" group-title="Brasil",Br|| SBT SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPACE HD" tvg-logo="" group-title="Brasil",Br|| SPACE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV 2 FHD" tvg-logo="" group-title="Brasil",Br|| SPORTV 2 FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV 2 HD" tvg-logo="" group-title="Brasil",Br|| SPORTV 2 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV 2 SD" tvg-logo="" group-title="Brasil",Br|| SPORTV 2 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV 3 FHD" tvg-logo="" group-title="Brasil",Br|| SPORTV 3 FHD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV 3 HD" tvg-logo="" group-title="Brasil",Br|| SPORTV 3 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV 3 SD" tvg-logo="" group-title="Brasil",Br|| SPORTV 3 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SPORTV HD" tvg-logo="" group-title="Brasil",Br|| SPORTV HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| STUDIO UNIVERSAL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/studiouniversal.png" group-title="Brasil",Br|| STUDIO UNIVERSAL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| SYFY HD" tvg-logo="" group-title="Brasil",Br|| SYFY HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117033.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TELECINE CULT HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_cult.png" group-title="Brasil",Br|| TELECINE CULT HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TELECINE FUN HD" tvg-logo="" group-title="Brasil",Br|| TELECINE FUN HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TELECINE PIPOCA HD" tvg-logo="" group-title="Brasil",Br|| TELECINE PIPOCA HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TELECINE PREMIUM HD" tvg-logo="" group-title="Brasil",Br|| TELECINE PREMIUM HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TELECINE TOUCH HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telecine_touch.png" group-title="Brasil",Br|| TELECINE TOUCH HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TNT HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="Brasil",Br|| TNT HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| TNT Series HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="Brasil",Br|| TNT Series HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| UNIVERSAL CHANNEL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/UniversalChannel.png" group-title="Brasil",Br|| UNIVERSAL CHANNEL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117023.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br|| WARNER CHANNEL HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/warner.png" group-title="Brasil",Br|| WARNER CHANNEL HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1117021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 1 TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CartoonNetwork.png" group-title="Latino America Premium",Cartoon Network 1 TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14430.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 2 TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CartoonNetwork.png" group-title="Latino America Premium",Cartoon Network 2 TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14429.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Norte TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CartoonNetwork.png" group-title="Latino America Premium",Cartoon Network Norte TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14428.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Sur TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CartoonNetwork.png" group-title="Latino America Premium",Cartoon Network Sur TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14427.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space Brasil TrL" tvg-logo="http://mylatinotv.com:8080/images/mexico/Space.png" group-title="Latino America Premium",Space Brasil TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14431.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space Brasil Turgo" tvg-logo="http://mylatinotv.com:8080/images/mexico/Space.png" group-title="Turgo",Space Brasil Turgo
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/19088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dep|| SporTV 1 BR" tvg-logo="" group-title="Deportes",Dep|| SporTV 1 BR
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/16306.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Br Turgo" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="Turgo",TNT Br Turgo
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/19096.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Brasil TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png" group-title="Latino America Premium",TNT Brasil TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14439.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series Brasil TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png" group-title="Latino America Premium",TNT Series Brasil TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14436.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series Brasil Turgo" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png" group-title="Turgo",TNT Series Brasil Turgo
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/19093.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="" group-title="Brasil",TV BRASIL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/16282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Brasil TrL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/CartoonNetwork.png" group-title="Latino America Premium",Cartoon Network Brasil TrL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14426.ts
