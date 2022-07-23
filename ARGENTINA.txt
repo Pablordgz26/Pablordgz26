@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA● ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Argentina",▁ ▂ ▄ ▅ ▆☆ ●ARGENTINA● ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA● ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Argentina",ARGENTINA● ☆▆ ▅ ▄ ▂ ▁
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50635.ts
 #EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TNT SPORT :)" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Argentina", TNT SPORT :)
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1119917.ts
