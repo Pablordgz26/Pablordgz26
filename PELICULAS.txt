@@ -133,10 +133,10 @@ http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1165256.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SONY" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/sony.png" group-title="PELICULAS",SONY
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165257.ts
 #EXTINF:-1 tvg-id="" tvg-name=" SPACE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/space.png" group-title="PELICULAS",SPACE
-http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1165258.ts
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165258.ts
 #EXTINF:-1 tvg-id="" tvg-name=" STUDIO UNIVERSAL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/studiouniversal.png" group-title="PELICULAS",STUDIO UNIVERSAL
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165259.ts
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="PELICULAS", SYFY
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165260.ts
-
-
+#EXTINF:-1 tvg-id="" tvg-name=" SPACE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/space.png" group-title="PELICULAS",SPACE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/81688.ts
