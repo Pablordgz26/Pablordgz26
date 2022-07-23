@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-id="~ HD AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/zQbNn1z.jpg" group-title="PELICULAS",AMC
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165038.ts
+#EXTINF:-1 tvg-id="~ HD TNT" tvg-name=" TNT" tvg-logo="https://i.imgur.com/lcpKsYy.jpg" group-title="PELICULAS",TNT
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165039.ts
+#EXTINF:-1 tvg-id="Las estrellas" tvg-name="Las estrellas" tvg-logo="" group-title="PELICULAS", Las estrellas
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165049.ts
+
+
+#EXTINF:-1 tvg-id="SD PARAMOUNT" tvg-name="Paramount" tvg-logo="https://i.imgur.com/ijgF9az.png" group-title="PELICULAS",Paramount
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165027.ts
+#EXTINF:-1 tvg-id=" SD SPACE" tvg-name="Space" tvg-logo="https://i.imgur.com/0ZY8UaV.jpg" group-title="PELICULAS",Space
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165028.ts
+#EXTINF:-1 tvg-id=" A24" tvg-name=" Studio Universal" tvg-logo="https://i.imgur.com/6mFAUyz.png" group-title="PELICULAS",Studio Universal
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165029.ts
+#EXTINF:-1 tvg-id=" HD SyFy." tvg-name="Syfy" tvg-logo="https://i.imgur.com/Tvd9UGn.png" group-title="PELICULAS", Syfy
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165030.ts
+#EXTINF:-1 tvg-id=" Adrenalina Sports." tvg-name="MX | Adrenalina TV" tvg-logo="https://i.imgur.com/7q3G8kW.jpg" group-title="PELICULAS",Adrenalina TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165031.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name=" TBS" tvg-logo="https://tinyurl.com/yxd84ywm" group-title="PELICULAS",TBS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165032.ts
+#EXTINF:-1 tvg-id=" SD TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/6tzWR9A.jpg" group-title="PELICULAS",TCM
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165033.ts
+#EXTINF:-1 tvg-id="TUDN MX SD" tvg-name="TUDN" tvg-logo="https://i.imgur.com/5McCKxM.png" group-title="PELICULAS", TUDN
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165034.ts
+#EXTINF:-1 tvg-id="Telemundo Chicago" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/RVn02K6.jpg" group-title="PELICULAS",Telemundo Internacional
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165035.ts
+#EXTINF:-1 tvg-id=" HD TLC" tvg-name="Discovery TLC" tvg-logo="https://i.imgur.com/6DiHpNi.png" group-title="PELICULAS",Discovery TLC
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165036.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
