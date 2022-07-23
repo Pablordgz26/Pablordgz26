@@ -1,0 +1,152 @@
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ ●ARGENTINA● ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Argentina",▁ ▂ ▄ ▅ ▆☆ ●ARGENTINA● ☆▆ ▅ ▄ ▂ ▁
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50635.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TNT SPORT :)" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Argentina", TNT SPORT :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1119917.ts
+#EXTINF:-1 tvg-id=", A24 HD" tvg-name="Argentina|| A24" tvg-logo="https://i.imgur.com/YYpe93j.png" group-title="Argentina",Argentina|| A24
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29505.ts
+#EXTINF:-1 tvg-id=", A24 HD" tvg-name=", A24 FHD *" tvg-logo="https://i.imgur.com/YYpe93j.png" group-title="Argentina",Argentina|| A24 FHD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109949.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=" A24 HD" tvg-logo="https://i.imgur.com/YYpe93j.png" group-title="Argentina",Argentina|| A24 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109948.ts
+#EXTINF:-1 tvg-id="Argentina|| AMERICA 24. :)" tvg-name="AMERICA 24. :)" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Argentina",AMERICA 24. :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116289.ts
+#EXTINF:-1 tvg-id="Argentina|| AMERICA 24. :)" tvg-name="Argentina|| AMERICA :)" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Argentina",Argentina|| AMERICA :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116288.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=", AMERICA TV" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Argentina",Argentina|| AMERICA TV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22125.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=", AMERICA TV ARG SD" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Argentina",Argentina|| AMERICA TV ARG SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109945.ts
+#EXTINF:-1 tvg-id="Argentina|| AMERICA TV HD" tvg-name=" AMERICA TV HD" tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Argentina",Argentina|| AMERICA TV HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29504.ts
+#EXTINF:-1 tvg-id="Peru|| America TV SD" tvg-name="Argentina|| AMERICA TV HD." tvg-logo="https://i.imgur.com/6aze59g.png" group-title="Argentina", AMERICA TV HD.
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50634.ts
+#EXTINF:-1 tvg-id="Argentina|| ARGENTINA MAGAZINE" tvg-name=", ARGENTINA MAGAZINE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_magazine_m.png" group-title="Argentina",Argentina|| ARGENTINA MAGAZINE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14212.ts
+#EXTINF:-1 tvg-id="Argentina|| ARGENTINA PAKAPAKA" tvg-name=", ARGENTINA PAKAPAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_(2010-2016).png" group-title="Argentina",Argentina|| ARGENTINA PAKAPAKA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14211.ts
+#EXTINF:-1 tvg-id="Argentina|| C5N" tvg-name=", C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Argentina",Argentina|| C5N
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50633.ts
+#EXTINF:-1 tvg-id="Argentina|| C5N" tvg-name=", C5N  :)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Argentina",Argentina|| C5N  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116290.ts
+#EXTINF:-1 tvg-id="Argentina|| C5N" tvg-name=", C5N (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Argentina",Argentina|| C5N (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22123.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=", CANAL 26 " tvg-logo="https://i.imgur.com/u0I9gU1.png" group-title="Argentina", CANAL 26 
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22114.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| CANAL 26 HD" tvg-logo="https://i.imgur.com/u0I9gU1.png" group-title="Argentina", CANAL 26 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/15317.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=", CANAL 26 SD" tvg-logo="https://i.imgur.com/u0I9gU1.png" group-title="Argentina",Argentina|| CANAL 26 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29498.ts
+#EXTINF:-1 tvg-id="Argentina|| CANAL 26 SD" tvg-name=", CANAL 26 SD" tvg-logo="https://i.imgur.com/u0I9gU1.png" group-title="Argentina",Argentina|| CANAL 26 SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109938.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=", CN23. :)" tvg-logo="https://i.imgur.com/vLLuD0G.png" group-title="Argentina",Argentina|| CN23. :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116291.ts
+#EXTINF:-1 tvg-id="Argentina|| Cronica (Argentina)" tvg-name=", Cronica (Argentina)" tvg-logo="https://i.imgur.com/z4iBYrc.gif" group-title="Argentina", Cronica (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1115808.ts
+#EXTINF:-1 tvg-id="Argentina|| CRONICA. :)" tvg-name="Argentina|| CRONICA. :)" tvg-logo="https://i.imgur.com/z4iBYrc.gif" group-title="Argentina", CRONICA. :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116292.ts
+#EXTINF:-1 tvg-id="Argentina|| DeporTV" tvg-name="Argentina|| DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="Argentina", DeporTV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22109.ts
+#EXTINF:-1 tvg-id="Argentina|| EL NUEVE HD*" tvg-name=", EL NUEVE HD *" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina", EL NUEVE HD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109933.ts
+#EXTINF:-1 tvg-id="Argentina|| EL NUEVE HD *" tvg-name=", EL NUEVE HD*" tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina", EL NUEVE HD*
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29496.ts
+#EXTINF:-1 tvg-id="Argentina|| EL NUEVE HD *" tvg-name="Argentina|| EL NUEVE HD." tvg-logo="https://cdn.mitvstatic.com/channels/canal-9-m.jpg" group-title="Argentina", EL NUEVE HD.
+http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/50632.ts
+#EXTINF:-1 tvg-id="Argentina|| EL TRECE (Argentina)" tvg-name="Argentina|| EL TRECE (Argentina)" tvg-logo="https://i.imgur.com/jO9n02B.png" group-title="Argentina", EL TRECE (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22105.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| EL TRECE EN SD (AR)" tvg-logo="https://i.imgur.com/jO9n02B.png" group-title="Argentina", EL TRECE EN SD (AR)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29502.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| EL TRECE HD" tvg-logo="https://i.imgur.com/jO9n02B.png" group-title="Argentina", EL TRECE HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29503.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| EL TRECE HD *" tvg-logo="https://i.imgur.com/jO9n02B.png" group-title="Argentina", EL TRECE HD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109942.ts
+#EXTINF:-1 tvg-id="Argentina|| EL TRECE HD :)" tvg-name="Argentina|| EL TRECE HD :)" tvg-logo="https://i.imgur.com/jO9n02B.png" group-title="Argentina", EL TRECE HD :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116293.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| EL TRECE HD." tvg-logo="https://i.imgur.com/jO9n02B.png" group-title="Argentina", EL TRECE HD.
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50631.ts
+#EXTINF:-1 tvg-id="Argentina|| ENCUENTRO" tvg-name="Argentina|| ENCUENTRO" tvg-logo="https://i.imgur.com/NnshDRo.png" group-title="Argentina", ENCUENTRO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/14213.ts
+#EXTINF:-1 tvg-id="Argentina|| ENCUENTRO" tvg-name="Argentina|| ENCUENTRO" tvg-logo="https://i.imgur.com/NnshDRo.png" group-title="Argentina",  ENCUENTRO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22103.ts
+#EXTINF:-1 tvg-id="Argentina|| ESPN ARG HD-" tvg-name="Argentina|| ESPN ARG HD-" tvg-logo="https://a1.espncdn.com/combiner/i?img=/i/espn/espn_logos/espn_red.png" group-title="Argentina", ESPN ARG HD-
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/26794.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=" ESPN ARGENTINA" tvg-logo="https://a1.espncdn.com/combiner/i?img=/i/espn/espn_logos/espn_red.png" group-title="Argentina", ESPN ARGENTINA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22101.ts
+#EXTINF:-1 tvg-id="Argentina|| FOX SPORTS 1 HD" tvg-name=", FOX SPORTS 1 HD" tvg-logo="https://i.imgur.com/JelpXdz.png" group-title="Argentina",Argentina|| FOX SPORTS 1 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22098.ts
+#EXTINF:-1 tvg-id="Argentina|| FOX SPORTS 1 HD (opc2)" tvg-name=" FOX SPORTS 1 HD (opc2)" tvg-logo="https://i.imgur.com/JelpXdz.png" group-title="Argentina",Argentina|| FOX SPORTS 1 HD (opc2)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1115228.ts
+#EXTINF:-1 tvg-id="Dep|| Fox Sports 2 | Argentina" tvg-name=", FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/8MSboIn.png" group-title="Argentina",Argentina|| FOX SPORTS 2 HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22097.ts
+#EXTINF:-1 tvg-id="Argentina|| FOX SPORTS 2 HD" tvg-name=", FOX SPORTS PREMIUM##" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_(Argentina)_-_2018_logo.png" group-title="Argentina",Argentina|| FOX SPORTS PREMIUM##
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50839.ts
+#EXTINF:-1 tvg-id="~ Garage TV" tvg-name="Argentina|| GARAGE. :)" tvg-logo="https://forounivers.com/uploads/monthly_2021_05/large.GarageTV.png.baac6b420c99240dbe09e48e58b81f08.png" group-title="Argentina", GARAGE. :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116294.ts
+#EXTINF:-1 tvg-id="Argentina|| GLITZ  :)" tvg-name="Argentina|| GLITZ  :)" tvg-logo="https://i.imgur.com/vkrKzhk.jpg" group-title="Argentina", GLITZ  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116295.ts
+#EXTINF:-1 tvg-id="Argentina|| La Nacion (Argentina)" tvg-name="Argentina|| La Nacion (Argentina)" tvg-logo="https://i.ytimg.com/vi/ns8-5XKA0Ww/maxresdefault.jpg" group-title="Argentina", La Nacion (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1115810.ts
+#EXTINF:-1 tvg-id="Argentina|| La Nacion (Argentina)" tvg-name="Argentina|| LN  :)" tvg-logo="https://i.ytimg.com/vi/ns8-5XKA0Ww/maxresdefault.jpg" group-title="Argentina", LN  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116296.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=", MULTIVISION CANAL 9 SALTA" tvg-logo="https://vivotvhd.com/img/cha/895.gif" group-title="Argentina", MULTIVISION CANAL 9 SALTA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50629.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| Net TV (Argentina)" tvg-logo="https://media.canalnet.tv/2018/10/N-345x414.png" group-title="Argentina", Net TV (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1115812.ts
+#EXTINF:-1 tvg-id="Argentina|| QUIERO MUSICA. :)" tvg-name="Argentina|| QUIERO MUSICA. :)" tvg-logo="https://i.imgur.com/jzX15q5.jpg" group-title="Argentina", QUIERO MUSICA. :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116297.ts
+#EXTINF:-1 tvg-id="Argentina|| RURAL  :)" tvg-name="Argentina|| RURAL  :)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/f343d499817711.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="Argentina", RURAL  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116298.ts
+#EXTINF:-1 tvg-id="Argentina|| TELEFE  :)" tvg-name="Argentina|| TELEFE  :)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina", TELEFE  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116299.ts
+#EXTINF:-1 tvg-id="SP | BEIN SPORTS 1" tvg-name="Argentina|| TELEFE (1080 HD)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina", TELEFE (1080 HD)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50627.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| Telefe FHD *" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina", Telefe FHD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109931.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TELEFE HD *" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina", TELEFE HD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109930.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name=" Telefe Internacional (Argentina)" tvg-logo="https://cdn.mitvstatic.com/channels/ee087e31-a99a-4bcd-a2ea-411028f12a48_m.jpg" group-title="Argentina", Telefe Internacional (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1115809.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TELEFE SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="Argentina", TELEFE SD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109929.ts
+#EXTINF:-1 tvg-id="Argentina|| TELEMAX :)" tvg-name="Argentina|| TELEMAX :)" tvg-logo="https://i.imgur.com/ObGrtzZ.png" group-title="Argentina", TELEMAX :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116300.ts
+#EXTINF:-1 tvg-id="Argentina|| TELESUR  :)" tvg-name="Argentina|| TELESUR  :)" tvg-logo="https://i.imgur.com/WABbbJF.jpg" group-title="Argentina", TELESUR  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116301.ts
+#EXTINF:-1 tvg-id="Argentina|| Television Publica Argentina FHD *" tvg-name="Argentina|| Television Publica Argentina FHD *" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Argentina", Television Publica Argentina FHD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109928.ts
+#EXTINF:-1 tvg-id="Argentina|| TELEMAX :)" tvg-name="Argentina|| TLX TELEMAX :)" tvg-logo="https://i.imgur.com/ObGrtzZ.png" group-title="Argentina", TLX TELEMAX :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116302.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TN (Argentina)" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Argentina", TN (Argentina)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22083.ts
+#EXTINF:-1 tvg-id="Argentina|| TN HD *" tvg-name="Argentina|| TN HD" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Argentina", TN HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22082.ts
+#EXTINF:-1 tvg-id="Argentina|| TN HD" tvg-name="Argentina|| TN HD" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Argentina", TN HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29490.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TN HD" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Argentina", TN HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50626.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TN HD *" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Argentina", TN HD *
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109924.ts
+#EXTINF:-1 tvg-id="Argentina|| TN NOTICIAS  :)" tvg-name="Argentina|| TN NOTICIAS  :)" tvg-logo="https://www.dalessio.com.ar/xpublico/LogoTN.png" group-title="Argentina", TN NOTICIAS  :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116303.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TNT SPORTS#" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Argentina", TNT SPORTS#
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50842.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TNT SPORTS##" tvg-logo="https://i.imgur.com/4HYiMSq.png" group-title="Argentina", TNT SPORTS##
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50841.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TV PUBLICA" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Argentina", TV PUBLICA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22078.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TV PUBLICA" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Argentina", TV PUBLICA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/29495.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TV PUBLICA" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Argentina", TV PUBLICA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109927.ts
+#EXTINF:-1 tvg-id="Argentina|| TV PUBLICA HD" tvg-name="Argentina|| TV PUBLICA :)" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Argentina", TV PUBLICA :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116304.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TV PUBLICA HD" tvg-logo="https://i.pinimg.com/originals/3c/d6/4a/3cd64a0f01fdd69f1f6b8f7aa3f1cccd.png" group-title="Argentina", TV PUBLICA HD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/50625.ts
+#EXTINF:-1 tvg-id="Argentina|| TV PUBLICA SD (AR)" tvg-name="Argentina|| TV PUBLICA SD (AR)" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/cuts_logos/37/50/37506555-2c43-4b60-9b4e-b46a8ec60f33.png" group-title="Argentina", TV PUBLICA SD (AR)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/109935.ts
+#EXTINF:-1 tvg-id="Argentina|| TYC Sports" tvg-name="Argentina|| TYC Sports" tvg-logo="https://i.imgur.com/3jdM5qx.jpg" group-title="Argentina", TYC Sports
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/22077.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TYC SPORTS :)" tvg-logo="https://i.imgur.com/3jdM5qx.jpg" group-title="Argentina", TYC SPORTS :)
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1116305.ts
+#EXTINF:-1 tvg-id="Argentina|| A24" tvg-name="Argentina|| TYC Sports Opc2" tvg-logo="https://i.imgur.com/3jdM5qx.jpg" group-title="Argentina", TYC Sports Opc2
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1120342.ts
