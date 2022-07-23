@@ -4,12 +4,8 @@ http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165038.ts
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165039.ts
 #EXTINF:-1 tvg-id="Las estrellas" tvg-name="Las estrellas" tvg-logo="" group-title="PELICULAS", Las estrellas
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165049.ts
-
-
 #EXTINF:-1 tvg-id="SD PARAMOUNT" tvg-name="Paramount" tvg-logo="https://i.imgur.com/ijgF9az.png" group-title="PELICULAS",Paramount
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165027.ts
-#EXTINF:-1 tvg-id=" SD SPACE" tvg-name="Space" tvg-logo="https://i.imgur.com/0ZY8UaV.jpg" group-title="PELICULAS",Space
-http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165028.ts
 #EXTINF:-1 tvg-id=" A24" tvg-name=" Studio Universal" tvg-logo="https://i.imgur.com/6mFAUyz.png" group-title="PELICULAS",Studio Universal
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165029.ts
 #EXTINF:-1 tvg-id=" HD SyFy." tvg-name="Syfy" tvg-logo="https://i.imgur.com/Tvd9UGn.png" group-title="PELICULAS", Syfy
@@ -26,16 +22,121 @@ http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165034.ts
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165035.ts
 #EXTINF:-1 tvg-id=" HD TLC" tvg-name="Discovery TLC" tvg-logo="https://i.imgur.com/6DiHpNi.png" group-title="PELICULAS",Discovery TLC
 http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165036.ts
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/E!Entertainment.png" group-title="PELICULAS",E!
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165193.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ENCUENTRO" tvg-logo="" group-title="PELICULAS",ENCUENTRO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165194.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn.png" group-title="PELICULAS", ESPN
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165195.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="PELICULAS",ESPN 2
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165196.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn3.png" group-title="PELICULAS",ESPN 3
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165197.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ESPN+" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn_.png" group-title="PELICULAS",ESPN+
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165198.ts
+#EXTINF:-1 tvg-id="" tvg-name=" EUROPA" tvg-logo="" group-title="PELICULAS",EUROPA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165199.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FILM & ARTS" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FilmArts.png" group-title="PELICULAS",FILM & ARTS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165200.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fox.png" group-title="PELICULAS",FOX
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165201.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="PELICULAS",FOX NEWS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Comedy" tvg-logo="https://i.imgur.com/9djkXK5.png" group-title="PELICULAS",Star Comedy
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165207.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FOX PREMIUM SERIES" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSeries.png" group-title="PELICULAS",FOX PREMIUM SERIES
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165211.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM SERIES OESTE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSeries.png" group-title="PELICULAS",FOX PREMIUM SERIES OESTE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165212.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports.png" group-title="PELICULAS",FOX SPORTS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165213.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="PELICULAS",FOX SPORTS 2
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165214.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports3.png" group-title="PELICULAS",FOX SPORTS 3
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165215.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FOXSP PREMIUM" tvg-logo="" group-title="PELICULAS",FOXSP PREMIUM
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165216.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png" group-title="PELICULAS", FX
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165217.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GARAGE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/GarageTV.png" group-title="PELICULAS",GARAGE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165219.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GLITZ" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/glitz.png" group-title="PELICULAS", GLITZ
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165220.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/golf.png" group-title="PELICULAS",GOLF CHANNEL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165221.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GOURMET" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/elgourmet.png" group-title="PELICULAS",GOURMET
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165222.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/H2.png" group-title="PELICULAS",H2
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165223.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HBO" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbo.png" group-title="PELICULAS", HBO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165224.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbo2.png" group-title="PELICULAS",HBO 2
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165225.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbofamily.png" group-title="PELICULAS",HBO FAMILY
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165226.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/HBOPlus.png" group-title="PELICULAS",HBO PLUS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165227.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT || HBO SIGNATURE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbosignature.png" group-title="PELICULAS",HBO SIGNATURE
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165228.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HCDN" tvg-logo="" group-title="PELICULAS",HCDN
+http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1165229.ts
+#EXTINF:-1 tvg-id="" tvg-name=" HISTORY" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/history.png" group-title="PELICULAS",HISTORY
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165230.ts
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="PELICULAS", HTV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165231.ts
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/isat.png" group-title="PELICULAS",I-SAT
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165232.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LIFETIME" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/lifetime.png" group-title="PELICULAS", LIFETIME
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165233.ts
+#EXTINF:-1 tvg-id="" tvg-name="LN" tvg-logo="" group-title="PELICULAS", LN
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165234.ts
+#EXTINF:-1 tvg-id="HD Mas Chic." tvg-name="MAS CHIC" tvg-logo="https://i.imgur.com/U3AOJ0k.png" group-title="PELICULAS",MAS CHIC
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165235.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MAX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/max.png" group-title="PELICULAS",MAX
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165236.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/maxprime.png" group-title="PELICULAS",MAX PRIME
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165237.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT || MAX UP" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/maxup.png" group-title="PELICULAS",MAX UP
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165238.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT || METRO" tvg-logo="" group-title="PELICULAS",METRO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165239.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MTV" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/MTV.png" group-title="PELICULAS",MTV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165240.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MTV HITS" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/MTVHits.png" group-title="PELICULAS",MTV HITS
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165241.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MUCH MUSIC" tvg-logo="" group-title="PELICULAS",MUCH MUSIC
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165242.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MUSIC TOP" tvg-logo="" group-title="PELICULAS",MUSIC TOP
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165243.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/natgeo.png" group-title="PELICULAS",NAT GEO
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165244.ts
+#EXTINF:-1 tvg-id="" tvg-name=" NETTV" tvg-logo="" group-title="PELICULAS", NETTV
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165247.ts
+#EXTINF:-1 tvg-id="" tvg-name=" NICKELODEON" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nick.png" group-title="PELICULAS", NICKELODEON
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165248.ts
+#EXTINF:-1 tvg-id="" tvg-name=" NICKELODEON JR" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/nickjr.png" group-title="PELICULAS", NICKELODEON JR
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165249.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="" group-title="PELICULAS",PAKA PAKA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165250.ts
+#EXTINF:-1 tvg-id="" tvg-name=" PARAMOUNT" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/paramount.png" group-title="PELICULAS", PARAMOUNT
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165251.ts
+#EXTINF:-1 tvg-id="" tvg-name=" QUAD" tvg-logo="" group-title="PELICULAS",QUAD
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165252.ts
+#EXTINF:-1 tvg-id="" tvg-name=" QUIERO MUSICA" tvg-logo="" group-title="PELICULAS",QUIERO MUSICA
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165253.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="PELICULAS", RAI
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165254.ts
+#EXTINF:-1 tvg-id="" tvg-name=" RURAL" tvg-logo="" group-title="PELICULAS", RURAL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165255.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SENADO" tvg-logo="" group-title="PELICULAS",SENADO
+http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1165256.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SONY" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/sony.png" group-title="PELICULAS",SONY
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165257.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SPACE" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/space.png" group-title="PELICULAS",SPACE
+http://moontools.me:8080/Maldonadotv2022/JWgUuad8Fhcb/1165258.ts
+#EXTINF:-1 tvg-id="" tvg-name=" STUDIO UNIVERSAL" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/studiouniversal.png" group-title="PELICULAS",STUDIO UNIVERSAL
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165259.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="PELICULAS", SYFY
+http://moontools.me:8080/live/Maldonadotv2022/JWgUuad8Fhcb/1165260.ts
 
 
